@@ -26,6 +26,7 @@ Designed for Diskless
 
 ## Known Issues
 [-] EA Loader mungkin tidak dapat mendeteksi game dengan benar diluar folder _ Games _ bila drive-letter gamedisk server dan client berbeda
+
 [-] Find EA Apps Game Registry mungkin bermasalah untuk beberapa game di Origin karena perbedaan struktur (murni kerjaannya EA), masih perlu riset untuk ini
 
 ## Cara Pakai
