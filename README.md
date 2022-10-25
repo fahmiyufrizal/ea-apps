@@ -30,7 +30,7 @@ Designed for Diskless
 
 ## Cara Pakai
 1. Jalankan Launch_EApps_Loader.exe di server
-2. Jika sebelumnya belum menginstall game EA apapun elalui EA Apps/Origin, Install ke dalam folder _Games_
+2. Jika sebelumnya belum menginstall game EA apapun elalui EA Apps/Origin, Install ke dalam folder _ Games _
 3. Jika sudah menginstall game di folder/drive lain, gunakan toolkit lalu lakukan find EA Games Apps Registry
 
 ## Thank's to
